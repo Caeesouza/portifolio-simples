@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 .background-color-sobre{
-    background-image: url(/background.png);
+    background-image: url(https://caeesouza.github.io/portifolio-simples/background.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
